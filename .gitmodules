@@ -1,0 +1,3 @@
+[submodule "wst"]
+	path = wst
+	url = https://github.com/cl-sdk/wst.git
